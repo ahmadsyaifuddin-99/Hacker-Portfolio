@@ -21,12 +21,12 @@ window.PorfolioConfig = {
       description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
     },
     {
-      name: 'Nusantara Web',
+      name: 'Nusantara Web (JS)',
       link: 'https://theuselessweb.com/',
       description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
     },
     {
-      name: 'A Mobile Game',
+      name: 'Login & Signin PHP (Native)',
       link: 'https://theuselessweb.com/',
       description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
     }
