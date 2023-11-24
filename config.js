@@ -51,6 +51,18 @@ window.PorfolioConfig = {
     {
       name: 'Qoute 2',
       description: ' "Kehidupan bukanlah Tujuan, akan tetapi Sebuah Perjalanan. Nahkodailah dirimu untuk menuju ke arah Jalan Pulang (Kembali Ke pelukan Tuhan)"'
+    },
+    {
+      name: 'Qoute 3',
+      description: ' "Seseorang di beri kemampuan dan kelebihan oleh Tuhan yg jarang di miliki oleh orang lain, tidak lain dan tidak bukan itu adalah Tanda bahwa dia Memiliki Sebuah Tugas di Dunia ini untuk membantu orang yg ada di sekitarnya. Tuhan memberikan Batasan batasan (Limiter) terhadap orang orang yg memiliki bakat tertentu atau kelebihan tersebut agar di gunakan dengan bijaksana, tanpa berbuat berlebihan atau merasa lebih tinggi dari orang lain."'
+    },
+    {
+      name: 'Quote 4',
+      description: ' "Disaat kita melakukan sesuatu untuk orang lain, sebenernya kita sedang melakukan itu untuk diri kita sendiri."'
+    },
+    {
+      name: 'Quote 5',
+      description: ' "Tanpa merasakan betapa dalamnya lautan yang gelap, kita takkan pernah memahami seberapa indahnya permukaannya."'
     }
   ],
   contacts: {
