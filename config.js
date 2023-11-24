@@ -63,6 +63,18 @@ window.PorfolioConfig = {
     {
       name: 'Quote 5',
       description: ' "Tanpa merasakan betapa dalamnya lautan yang gelap, kita takkan pernah memahami seberapa indahnya permukaannya."'
+    },
+    {
+      name: 'Quote 6',
+      description: ' "Rasa sakit itu sebenarnya menyadarkan Manusia, dengan adanya rasa sakit itu rasa sakit itu menyadari kita sebenarnya"'
+    },
+    {
+      name: 'Quote 7',
+      description: ' "Manusia tidak akan saling mengerti jika tidak merasakan penderitaan yang sama"'
+    },
+    {
+      name: 'Quote 8',
+      description: ' "Segala sesuatu yang pernah kita lihat, dengar, baca, dan pelajari, menyertai kita dalam bentuk partikel cahaya."'
     }
   ],
   contacts: {
