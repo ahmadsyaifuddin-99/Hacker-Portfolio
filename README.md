@@ -4,8 +4,6 @@
 
 ✅ Fast
 
-✅ FREE
-
 ✅ Mobile Responsive
 
 ✅ SEO Friendly
