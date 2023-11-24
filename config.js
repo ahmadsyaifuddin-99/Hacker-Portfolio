@@ -16,7 +16,7 @@ window.PorfolioConfig = {
     }
   ],
   works: [{
-      name: 'Vue Stripe Checkout',
+      name: 'E-Commerce PHP (Native)',
       link: 'https://jofftiquez.github.io/vue-stripe-checkout',
       description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
     },
