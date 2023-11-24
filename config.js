@@ -75,6 +75,18 @@ window.PorfolioConfig = {
     {
       name: 'Quote 8',
       description: ' "Segala sesuatu yang pernah kita lihat, dengar, baca, dan pelajari, menyertai kita dalam bentuk partikel cahaya."'
+    },
+    {
+      name: 'Quote 9',
+      description: ' "Bila hati Anda bersih dan tidak tercemar, maka tidak ada aturan yang bisa membatasi Anda. Jika hati Anda tercemar, semua adalah larangan dan aturan."'
+    },
+    {
+      name: 'Quote 10',
+      description: ' "Bersabarlah Ketika Kecewa Janganlah Membenci Kepada Siapapun"'
+    },
+    {
+      name: 'Quote 11',
+      description: ' "Jangan biarkan masa lalu mengganggu kedamaian masa kini"'
     }
   ],
   contacts: {
