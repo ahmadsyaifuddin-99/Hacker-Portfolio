@@ -1,6 +1,6 @@
 window.PorfolioConfig = {
   name: 'Ahmad Syai',
-  jobTitle: 'Full-stack Web Developer',
+  jobTitle: 'Frond-End Web Developer',
   jobDescription: 'I want to become a Cyber Security. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
   skills: [{
       name: 'JavaScript',
