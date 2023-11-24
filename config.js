@@ -17,12 +17,12 @@ window.PorfolioConfig = {
   ],
   works: [{
       name: 'E-Commerce PHP (Native)',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
+      link: '',
       description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
     },
     {
       name: 'Nusantara Web (JS)',
-      link: 'https://theuselessweb.com/',
+      link: 'https://ahmads-nusantara-web.netlify.app',
       description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
     },
     {
