@@ -50,7 +50,7 @@ window.PorfolioConfig = {
     },
     {
       name: 'Qoute 2',
-      description: ' "Kehidupan bukanlah Tujuan, akan tetapi Sebuah Perjalanan. Nahkodailah dirimu untuk menuju ke arah Jalan Pulang (Kembali Ke pelukan Tuhan)"'
+      description: ' "Kehidupan bukanlah Tujuan, akan tetapi Sebuah Perjalanan. Nahkodailah dirimu untuk menuju ke arah Jalan Pulang (Agar Kembali dengan Pelukan Tuhan)"'
     },
     {
       name: 'Qoute 3',
