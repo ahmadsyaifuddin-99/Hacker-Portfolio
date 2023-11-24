@@ -44,6 +44,15 @@ window.PorfolioConfig = {
       description: 'Laborum pariatur sint labore officia enim occaecat id.'
     }
   ],
+  quotes: [{
+      name: 'Quote 1',
+      description: ' "Seperti bunga teratai yang tumbuh di lumpur dan mekar di atas air, manusia dapat tumbuh dan berkembang bahkan dalam lingkungan yang tidak sempurna."'
+    },
+    {
+      name: 'Qoute 2',
+      description: ' "Kehidupan bukanlah Tujuan, akan tetapi Sebuah Perjalanan. Nahkodailah dirimu untuk menuju ke arah Jalan Pulang (Kembali Ke pelukan Tuhan)"'
+    }
+  ],
   contacts: {
     email: 'ahmadsyai598@gmail.com',
     mobileNo: '+6285849910396',

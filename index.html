@@ -140,6 +140,27 @@
             </v-card>
           </v-col>
         </section>
+
+        <section class="row mb-5" id="quotes">
+          <v-col cols="12" md="6">
+            <h1 class="primary--text" data-aos="fade-up">/My Quotes</h1>
+          </v-col>
+          <v-col v-for="(quote, index) in quotes" cols="12" :key="index">
+            <v-card hover="hover" height="100%" data-aos="fade-up">
+              <v-card-text>
+                <h2 class="primary--text">>
+                  {{quote.name}}</h2>
+                <br>
+                <p>:{{quote.description}}</p>
+              </v-card-text>
+              <v-footer>
+                <v-spacer></v-spacer>
+                <small class="primary--text">~/.quotes</small>
+              </v-footer>
+            </v-card>
+          </v-col>
+        </section>
+
         <section class="row justify-center" id="contact">
           <v-col cols="12" md="10" class="text-center">
             <h1 class="primary--text" data-aos="fade-up">/Let's Talk!</h1>
