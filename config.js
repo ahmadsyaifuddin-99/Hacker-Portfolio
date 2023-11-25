@@ -1,5 +1,5 @@
 window.PorfolioConfig = {
-  name: 'Ahmad Syai',
+  name: 'Ahmad Syaifuddin',
   jobTitle: 'Frond-End Web Developer',
   jobDescription: 'I want to become a Cyber Security. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
   skills: [{
