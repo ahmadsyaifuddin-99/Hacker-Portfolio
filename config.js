@@ -87,6 +87,10 @@ window.PorfolioConfig = {
     {
       name: 'Quote 11',
       description: ' "Jangan biarkan masa lalu mengganggu kedamaian masa kini"'
+    },
+    {
+      name: 'Quote 12',
+      description: ' "-"'
     }
   ],
   contacts: {
