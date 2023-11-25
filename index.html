@@ -183,7 +183,7 @@
                 </a>
                 <!-- <h3 v-if="contacts && contacts.phoneNo">{{contacts.phoneNo}}</h3> -->
               </v-col>
-              <v-col class="text-center" cols="12" data-aos="fade-up">
+              <v-col class="text-center" cols="12">
                 <v-btn class="ma-1" v-for="(link, index) in contactLinks" outlined="outlined" rounded="rounded"
                   target="_blank" :href="link.link" :key="index" color="primary">
                   {{link.name}}
@@ -253,8 +253,8 @@
     });
 
     AOS.init({
-      once: true,
-      delay: 100
+      once: false,
+      delay: 300
     });
   </script>
 </body>
