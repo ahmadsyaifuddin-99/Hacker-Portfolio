@@ -90,7 +90,19 @@ window.PorfolioConfig = {
     },
     {
       name: 'Quote 12',
-      description: ' "-"'
+      description: ' "Kebahagian tidak datang melalui keinginan, tetapi melalui pemahaman"'
+    },
+    {
+      name: 'Qoute 13',
+      description: ' "Satu momen bisa mengubah satu hari, satu hari bisa mengubah satu kehidupan, dan satu kehidupan bisa mengubah dunia."'
+    },
+    {
+      name: 'Quote 14',
+      description: ' "Penderitaan datang dari hasrat dan ikatan kepada dunia yang sementara."'
+    },
+    {
+      name: 'Quote 15',
+      description: ''
     }
   ],
   contacts: {
