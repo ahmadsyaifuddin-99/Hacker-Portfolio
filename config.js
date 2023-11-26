@@ -102,7 +102,19 @@ window.PorfolioConfig = {
     },
     {
       name: 'Quote 15',
-      description: ''
+      description: ' "Kesadaran adalah kunci untuk mengubah diri dan dunia"'
+    },
+    {
+      name: 'Quote 16',
+      description: ' "Jangan terikat pada masa lalu, jangan bermimpi tentang masa depan, fokuslah pada saat ini"'
+    },
+    {
+      name: 'Quote 17',
+      description: ' "Keseimbangan adalah kunci kebahagiaan sejati dalam kehidupan"'
+    },
+    {
+      name: 'Quote 18',
+      description: ' "Berdamailah dengan Diri Sendiri, dan Memaafkan Orang-orang yang telah Menyakiti"'
     }
   ],
   contacts: {
