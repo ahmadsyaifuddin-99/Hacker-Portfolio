@@ -90,7 +90,7 @@ window.PorfolioConfig = {
     },
     {
       name: 'Quote 12',
-      description: ' "Kebahagian tidak datang melalui keinginan, tetapi melalui pemahaman"'
+      description: ' "Kebahagiaan tidak datang melalui keinginan, tetapi melalui pemahaman"'
     },
     {
       name: 'Qoute 13',
