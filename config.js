@@ -123,7 +123,7 @@ window.PorfolioConfig = {
     {
       name: 'Quote 20',
       description: ' "Berhentilah Berpikir Berlebihan, Sebab Sepotong Besi rusak karena karatnya sendiri, Jangan biarkan dirimu rusak karna pikiranmu sendiri. Tidak usah terlalu cemas, Karena cerita hidupmu telah Ditulis Oleh Penulis Skenario Terbaik"'
-    },
+    }
   ],
   contacts: {
     email: 'ahmadsyai598@gmail.com',
