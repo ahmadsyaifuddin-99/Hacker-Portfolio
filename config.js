@@ -115,6 +115,10 @@ window.PorfolioConfig = {
     {
       name: 'Quote 18',
       description: ' "Berdamailah dengan Diri Sendiri, dan Memaafkan Orang-orang yang telah Menyakiti"'
+    },
+    {
+      name: 'Quote 19',
+      description: ' "Janganlah Memilih Kepada Siapa Kita Berbuat Kebaikan, Karena Kebaikan Apapun yang kita lakukan tidak akan Disia-siakan Oleh Tuhan"'
     }
   ],
   contacts: {
