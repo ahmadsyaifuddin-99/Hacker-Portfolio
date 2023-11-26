@@ -118,7 +118,7 @@ window.PorfolioConfig = {
     },
     {
       name: 'Quote 19',
-      description: ' "Janganlah Memilih Kepada Siapa Kita Berbuat Kebaikan, Karena Kebaikan Apapun yang kita lakukan tidak akan Disia-siakan Oleh Tuhan"'
+      description: ' "Janganlah Memilih Kepada Siapa Kita Berbuat Kebaikan, Karena Kebaikan Apapun yang kita lakukan tidak akan Disia-siakan Oleh Tuhan, Teruslah Berbuat Baik Meskipun Melelahkan"'
     }
   ],
   contacts: {
