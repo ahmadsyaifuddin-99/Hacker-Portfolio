@@ -66,7 +66,7 @@ window.PorfolioConfig = {
     },
     {
       name: 'Quote 6',
-      description: ' "Rasa sakit itu sebenarnya menyadarkan Manusia, dengan adanya rasa sakit itu rasa sakit itu menyadari kita sebenarnya"'
+      description: ' "Rasa sakit itu sebenarnya menyadarkan Manusia, dengan adanya rasa sakit itu rasa sakit itulah menyadari kita sebenarnya"'
     },
     {
       name: 'Quote 7',
