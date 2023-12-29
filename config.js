@@ -40,7 +40,7 @@ window.PorfolioConfig = {
       description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
     },
     {
-      name: 'Rubick\'s Cube',
+      name: 'Playing the Piano',
       description: 'Laborum pariatur sint labore officia enim occaecat id.'
     }
   ],
