@@ -127,7 +127,7 @@ window.PorfolioConfig = {
   ],
   contacts: {
     email: 'ahmadsyai598@gmail.com',
-    mobileNo: '+6285849910396',
+    mobileNo: '+6285754857604',
     links: [{
         name: 'GitHub',
         link: 'https://github.com/ahmadsyaifuddin-99'
