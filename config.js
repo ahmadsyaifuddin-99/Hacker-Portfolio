@@ -134,7 +134,7 @@ window.PorfolioConfig = {
       },
       {
         name: 'Instagram',
-        link: 'https://www.instagram.com/real.ahmadsyaifuddin/'
+        link: 'https://www.instagram.com/asai.ahmadsyaifuddin/'
       },
       {
         name: 'Tiktok',
