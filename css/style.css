@@ -1,0 +1,12 @@
+.iframeReal {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+@media screen and (max-width: 480px) {
+    .iframeReal {
+        display: block;
+        /* grid-template-columns: auto auto auto; */
+    }
+
+}
